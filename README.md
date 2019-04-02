@@ -82,7 +82,7 @@ lets create a new file called index.html
             // returns a promise
         });
 
-        // if your response has a script tag and you need to update your dom call just call
+        // if your response has a script tag and you need to update your dom, just call
         php.html(response);
         
     </script>
